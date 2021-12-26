@@ -1,4 +1,3 @@
-
-.Educatin
-.Token
-.model pay to learn
+what is blockchain
+model
+pay to learn
