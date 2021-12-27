@@ -2,9 +2,11 @@ Tentive  name
 
 Future of education cryptocurrency
 
-Project description: it's was a project  
+Project description: it's was a platform for student's  and teacherto get more involed in there school attives and get some rewards for it 
+from the platform.
 
-Token: proof of learning
+Goverment Token: proof of learning
+proof of stakeing.
 
 Target Audience
 elementary------>highschool
@@ -19,6 +21,5 @@ teacher associations
 4.
 5.
 etc....
-
 casestudies
 
